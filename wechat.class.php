@@ -1,7 +1,6 @@
 <?php
 /* 
-APP：微信JS-SDK PHP处理类
-作者：qqoo1224@gmail.com
+微信JS-SDK PHP处理类
 版本：1.0
 */
 class JSSDK {
